@@ -102,6 +102,28 @@ let resumeData = {
         "link": "https://salty-island-07089.herokuapp.com/",
         "sourcecode": "https://github.com/maskedXchaotic/youtube_react"
       }
+    ],
+    "certifications": [
+      {
+        "name": "Full Stack Open",
+        "image": "images/certifications/fullstack.png"
+      },
+      {
+        "name": "Data Analysis with Python",
+        "image": "images/certifications/data-analysis.pdf"
+      },
+      {
+        "name": "Javascript Algorithms and Data Structres",
+        "image": "images/certifications/javascript.png"
+      },
+      {
+        "name": "Responsive Web Design",
+        "image": "images/certifications/html.png"
+      },
+      {
+        "name": "Artifical Intelligence",
+        "image": "images/certifications/elements-of-ai.png"
+      }
     ]
   }
   
