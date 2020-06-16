@@ -2,6 +2,8 @@ A fork of  [rbhatia46 react portfolio](https://github.com/rbhatia46/React-Portfo
 
 A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, certfications and other information to clients.
 
+## [DEMO](https://its-mxc.github.io)
+
 ## Preview
 ![Preview](https://i.ibb.co/92Vrg2Q/Screenshot-2020-06-16-Uday-Nayak.png)
 
