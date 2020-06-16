@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"",
     "name": "Uday Nayak",
     "role": "Full Stack Engineer",
     "linkedinId":"Your LinkedIn Id",
@@ -79,27 +79,25 @@ let resumeData = {
         "name":"Prashna",
         "description":"Ruby on Rails",
         "imgurl":"images/portfolio/Prashna.png",
-        "link": "https://salty-island-07089.herokuapp.com/"
+        "link": "https://prashna-uday.herokuapp.com/",
+        "sourcecode": "https://github.com/its-mXc/prashna"
       },
       {
         "name":"ToDoList",
         "description":"React SPA using firbase,context, and integration testing and node-sass",
         "imgurl":"images/portfolio/todolist.png",
-        "link": "https://salty-island-07089.herokuapp.com/",
         "sourcecode": "https://github.com/its-mXc/todolist"
       },
       {
         "name":"Binding Sites",
         "description":"Hierarchical clustering using average linkage and hamming affnity on DNA Dataset",
         "imgurl":"images/portfolio/bindingsites.png",
-        "link": "https://salty-island-07089.herokuapp.com/",
         "sourcecode": "https://github.com/maskedXchaotic/binding-sites"
       },
       {
         "name":"MyTube",
         "description":"YouTube clone using ReactJS",
         "imgurl":"images/portfolio/mytube.png",
-        "link": "https://salty-island-07089.herokuapp.com/",
         "sourcecode": "https://github.com/maskedXchaotic/youtube_react"
       }
     ],

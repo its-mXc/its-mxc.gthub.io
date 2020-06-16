@@ -24,8 +24,8 @@ export default class Porfolio extends Component {
                     </a>
                   </div>
                   <div class="project-links">
-                    <a href={`${item.sourcecode}`}  target="_blank"><i class="fa fa-2x fa-github" aria-hidden="true"></i></a>
-                    <a href={`${item.link}`}  target="_blank"><i class="fa fa-2x fa-link" aria-hidden="true"></i></a>
+                    {item.sourcecode && <a href={`${item.sourcecode}`}  target="_blank"><i class="fa fa-2x fa-github" aria-hidden="true"></i></a> }
+                    {item.link && <a href={`${item.link}`}  target="_blank"><i class="fa fa-2x fa-link" aria-hidden="true"></i></a>}
                   </div>
                 </div>
               )
