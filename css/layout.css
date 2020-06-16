@@ -139,6 +139,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    position: fixed;
    left: 0;
    top: 0;
+   background: #161415;
 }
 .opaque { background-color: #333; }
 
@@ -1070,3 +1071,25 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+#certifications {
+   background: white;
+   padding-top: 96px;
+   padding-bottom: 102px;
+   padding-left: 9%;
+   color: black;
+}
+
+#certifications h4 {
+   font-size: 32px;
+}
+
+#certifications-wrapper {
+   margin-left: 25px;
+   display: grid;
+   grid-row-gap: 50px;
+}
+
+#certifications-wrapper  a {
+   font-size: 18px;
+   color: black;
+}
