@@ -33,7 +33,7 @@ export default class About extends Component {
                     </span>
                     <br></br>
                     <br></br>
-                    <a href={resumeData.website}><i class="fa fa-link"></i>{resumeData.website}</a><br></br>
+                    <a href={`https://${resumeData.website}`}><i class="fa fa-link"></i>{resumeData.website}</a><br></br>
                     <a href={`mailto:${resumeData.email}`}><i class="fa fa-envelope"></i>{resumeData.email}</a>
        				</p>
 
