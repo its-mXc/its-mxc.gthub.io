@@ -1,10 +1,9 @@
-[![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
+A fork of  [rbhatia46 react portfolio](https://github.com/rbhatia46/React-Portfolio) with certifications sections and imporoved contact section
 
-
-A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
+A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, certfications and other information to clients.
 
 ## Preview
-![Preview](https://image.ibb.co/e5uBf0/Capture.png)
+![Preview](https://i.ibb.co/92Vrg2Q/Screenshot-2020-06-16-Uday-Nayak.png)
 
 ## How to use
 1. Clone/Download the repo.
