@@ -4,7 +4,7 @@ export default class Certifications extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="certifications">
-      <div className="row" style={{maxWidth: "63vw"}}>
+      <div className="row" style={{maxWidth: "85vw"}}>
         <div className="twelve columns collapsed">
           <h4>Certifications</h4>
           <div id="certifications-wrapper" className="bgrid-quarters s-bgrid-thirds cf">

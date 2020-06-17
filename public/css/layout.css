@@ -215,6 +215,7 @@ ul#nav li.current a { color: #F06000; }
 #about .contact-details { 
    width: 41.66667%;
    color: white;
+   padding-left: 30px;
 }
 .address > h5 {
    color: white;
@@ -474,7 +475,7 @@ ul#nav li.current a { color: #F06000; }
 	transition: all 0.3s ease-in-out;
 }
 .item-wrap {
-   width: 50vw;   
+   width: 80vw;   
    /* height: 80vh; */
 }
 .portfolio-item .item-wrap a {
@@ -1080,7 +1081,7 @@ footer .social-links li:first-child { margin-left: 0; }
    background: white;
    padding-top: 96px;
    padding-bottom: 102px;
-   padding-left: 9%;
+   /* padding-left: 9%; */
    color: black;
 }
 
@@ -1095,7 +1096,7 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 
 #certifications-wrapper  a {
-   font-size: 18px;
+   font-size: 17px;
    color: black;
 }
 
