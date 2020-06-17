@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Particles from 'react-particles-js';
 export default class Header extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -6,7 +7,38 @@ export default class Header extends Component {
       <React.Fragment>
       
       <header id="home">
-         <nav id="nav-wrap">
+         <div
+            style={{
+              position: "absolute",
+              top: 0,
+              left: 0,
+              width: "100%",
+              height: "80%"
+            }}
+          >
+            <Particles
+              params={{
+                particles: {
+                  number: {
+                    value: 75,
+                  },
+                  size: {
+                    value: 3,
+                  },
+                },
+              }}
+            />
+             <div
+              style={{
+                position: "absolute",
+                top: 0,
+                left: 0,
+                width: "100%",
+                height: "80%",
+                marginTop: "10%"
+              }}
+            >
+              <nav id="nav-wrap">
             <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
           <a className="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
             <ul id="nav" className="nav">
@@ -18,7 +50,8 @@ export default class Header extends Component {
                <li><a className="smoothscroll" href="#contact">Contact</a></li>
             </ul>
          </nav>
-
+         {/* <div id="home-banner"> */}
+           {/* <Particles /> */}
          <div className="row banner">
             <div className="banner-text">
                <h1 className="responsive-headline">I am {resumeData.name}.</h1>
@@ -39,10 +72,14 @@ export default class Header extends Component {
                </ul>
             </div>
          </div>
+         {/* </div> */}
 
          <p className="scrolldown">
             <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
          </p>
+            </div>
+        </div>
+         
 
       </header>
       </React.Fragment>
