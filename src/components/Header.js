@@ -13,7 +13,7 @@ export default class Header extends Component {
               top: 0,
               left: 0,
               width: "100%",
-              height: "80%"
+              height: "70vh"
             }}
           >
             <Particles
@@ -23,11 +23,11 @@ export default class Header extends Component {
                     value: 50,
                     density: {
                       enable: true,
-                      value_area: 800
+                      value_area: 1000
                     }
                   },
                   size: {
-                    value: 3,
+                    value: 4,
                   },
                 },
               }}
@@ -38,8 +38,8 @@ export default class Header extends Component {
                 top: 0,
                 left: 0,
                 width: "100%",
-                height: "80%",
-                marginTop: "10%"
+                height: "70vh",
+                marginTop: "20vh"
               }}
             >
               <nav id="nav-wrap">
