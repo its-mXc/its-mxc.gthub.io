@@ -1,4 +1,4 @@
-A fork of  [rbhatia46 react portfolio](https://github.com/rbhatia46/React-Portfolio) with certifications sections and imporoved contact section
+A fork of  [rbhatia46 react portfolio](https://github.com/rbhatia46/React-Portfolio) with certifications sections and improved contact section, emphasis on mobile view, and flowing particles as background
 
 A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, certfications and other information to clients.
 
