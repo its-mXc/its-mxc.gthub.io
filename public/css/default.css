@@ -734,7 +734,7 @@ properly.
       /* padding: 0 30px; */
    }
    .columns p {
-      padding-left: 10px;
+      padding-left: 30px;
    }
    .row .row { width: auto; max-width: none; margin: 0 -30px; }
 
