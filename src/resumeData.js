@@ -21,6 +21,7 @@ let resumeData = {
     "website":"its-mXc.github.io",
     "email": "udaynayakgkv@gmail.com",
     "address": "Gurgaon, Haryana",
+    "resumelink": "https://drive.google.com/uc?export=download&amp;id=1DQYlMzyDo0p-eqfTyZGZWXzFmVXaVF8M",
     "education":[
       {
         "UniversityName":"Gurukul Kangri Vishwavidalaya",

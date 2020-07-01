@@ -37,7 +37,7 @@ export default class About extends Component {
                     <a href={`mailto:${resumeData.email}`}><i class="fa fa-envelope"></i>{resumeData.email}</a>
        				</p>
 
-                   <a class="button resume" href="https://drive.google.com/uc?export=download&amp;id=1DQYlMzyDo0p-eqfTyZGZWXzFmVXaVF8M"><i class="fa fa-download"></i>Resume</a>
+                   <a class="button resume" href={resumeData.resumelink}><i class="fa fa-download"></i>Resume</a>
                   </div>
                </div>
             </div>
