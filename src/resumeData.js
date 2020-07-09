@@ -17,11 +17,11 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme": "I am a final year student at Gurukul Kangri Vishwavidalaya pursuing my Bachelors of Technology in Computer Science. I am a self taught full stack developer and currently doing some projects on Data Analysis and Machine Learning. I have done my internship in Computer Networks and Information Security. My Interests include Geo-politics and Aviation.",
+    "aboutme": "I am a final year student at Gurukul Kangri Vishwavidalaya pursuing my Bachelors of Technology in Computer Science.I am a self taught full stack developer and currently doing some projects on MERN Stack.I have done my internship in Ruby on Rails Framweork and did two projects Prashna and Depot App. My Interests include Geo-politics and Aviation.",
     "website":"its-mXc.github.io",
     "email": "udaynayakgkv@gmail.com",
     "address": "Gurgaon, Haryana",
-    "resumelink": "https://drive.google.com/uc?export=download&amp;id=1DQYlMzyDo0p-eqfTyZGZWXzFmVXaVF8M",
+    "resumelink": "https://drive.google.com/uc?export=download&id=1DQYlMzyDo0p-eqfTyZGZWXzFmVXaVF8M",
     "education":[
       {
         "UniversityName":"Gurukul Kangri Vishwavidalaya",
@@ -48,7 +48,7 @@ let resumeData = {
       },
       {
         "CompanyName":"Yokoso Automation Private Limited",
-        "specialization":"Computer Network & Information Security",
+        "specialization":"Intern - Computer Network & Information Security",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2019",
         "Achievements":"Hands on industry level experience regarding Computer network and information security"
@@ -78,7 +78,7 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Prashna",
-        "description":"Ruby on Rails",
+        "description":"Question asking platform inspired from quora built using Ruby on Rails",
         "imgurl":"images/portfolio/Prashna.png",
         "link": "https://prashna-uday.herokuapp.com/",
         "sourcecode": "https://github.com/its-mXc/prashna"
