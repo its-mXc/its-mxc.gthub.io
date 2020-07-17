@@ -91,7 +91,7 @@ let resumeData = {
       },
       {
         "name":"Quick Components",
-        "description":"Hierarchical clustering using average linkage and hamming affnity on DNA Dataset",
+        "description":"Components for Quick Protoyping in ReactJS",
         "imgurl":"images/portfolio/quick-components.png",
         "sourcecode": "https://github.com/its-mXc/quick-components"
       },
