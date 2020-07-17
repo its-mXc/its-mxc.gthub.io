@@ -20,10 +20,10 @@ export default class Header extends Component {
               params={{
                 particles: {
                   number: {
-                    value: 50,
+                    value: 70,
                     density: {
                       enable: true,
-                      value_area: 1000
+                      value_area: 1500
                     }
                   },
                   size: {

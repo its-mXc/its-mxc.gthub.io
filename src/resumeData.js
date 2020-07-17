@@ -90,16 +90,17 @@ let resumeData = {
         "sourcecode": "https://github.com/its-mXc/todolist"
       },
       {
-        "name":"Binding Sites",
+        "name":"Quick Components",
         "description":"Hierarchical clustering using average linkage and hamming affnity on DNA Dataset",
-        "imgurl":"images/portfolio/bindingsites.png",
-        "sourcecode": "https://github.com/maskedXchaotic/binding-sites"
+        "imgurl":"images/portfolio/quick-components.png",
+        "sourcecode": "https://github.com/its-mXc/quick-components"
       },
       {
-        "name":"MyTube",
-        "description":"YouTube clone using ReactJS",
-        "imgurl":"images/portfolio/mytube.png",
-        "sourcecode": "https://github.com/maskedXchaotic/youtube_react"
+        "name":"React Portfolio Template",
+        "description":"Portfolio template to preseent your talents and projects, built using ReactJS",
+        "imgurl":"images/portfolio/portfolio.png",
+        "link": "https://its-mxc.github.io/",
+        "sourcecode": "https://github.com/maskedXchaotic/react-portfolio"
       }
     ],
     "certifications": [
