@@ -100,7 +100,7 @@ let resumeData = {
         "description":"Portfolio template to preseent your talents and projects, built using ReactJS",
         "imgurl":"images/portfolio/portfolio.png",
         "link": "https://its-mxc.github.io/",
-        "sourcecode": "https://github.com/maskedXchaotic/react-portfolio"
+        "sourcecode": "https://github.com/its-mXc/react-portfolio"
       }
     ],
     "certifications": [
