@@ -44,7 +44,7 @@ let resumeData = {
         "specialization":"Intern - Ruby on Rails",
         "MonthOfLeaving":"June",
         "YearOfLeaving":"2020",
-        "Achievements":"Learnt Ruby, Metaprogramming in Ruby, HTML, CSS, JavaScript, Jquery, Relational Database MySQL, Version control using GIT, and full stack framework Rails, and did 2 projects in Rails Depot App and Prashna "
+        "Achievements":"Trained for Ruby on Rails Software Enginner, had to left due to covid. Learnt Ruby, Metaprogramming in Ruby, HTML, CSS, JavaScript, Jquery, Relational Database MySQL, Version control using GIT, and full stack framework Rails, and did 2 projects in Rails Depot App and Prashna "
       },
       {
         "CompanyName":"Yokoso Automation Private Limited",
@@ -87,12 +87,14 @@ let resumeData = {
         "name":"ToDoList",
         "description":"React SPA using firbase,context, and integration testing and node-sass",
         "imgurl":"images/portfolio/todolist.png",
+        "link": "https://github.com/its-mXc/prashna",
         "sourcecode": "https://github.com/its-mXc/todolist"
       },
       {
         "name":"Quick Components",
         "description":"Components for Quick Protoyping in ReactJS",
         "imgurl":"images/portfolio/quick-components.png",
+        "link": "https://github.com/its-mXc/quick-components",
         "sourcecode": "https://github.com/its-mXc/quick-components"
       },
       {
@@ -100,6 +102,7 @@ let resumeData = {
         "description":"Portfolio template to preseent your talents and projects, built using ReactJS",
         "imgurl":"images/portfolio/portfolio.png",
         "link": "https://its-mxc.github.io/",
+        "link": "https://github.com/its-mXc/react-portfolio",
         "sourcecode": "https://github.com/its-mXc/react-portfolio"
       }
     ],
