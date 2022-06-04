@@ -4,7 +4,7 @@ let resumeData = {
   role: "Full Stack Engineer",
   skypeid: "Your skypeid",
   roleDescription:
-    "I am an Inquisitive, energetic Computer Science Professional with a strong foundation in math, programming logic, cross platforming coding, data analysis and full stack development.",
+    "Software Engineer with 2 years of experience developing cross-platform/fullstack application using electron, nextjs, typescript,graphql, node js", // "I am an Inquisitive, energetic Computer Science Professional with a strong foundation in math, programming logic, cross platforming coding, data analysis and full stack development.",
   socialLinks: [
     {
       name: "Uday Nayak",
@@ -18,7 +18,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    "I am a fresh Bachelors of Technology - Computer Science Graduate from Gurukul Kangri Vishwavidalaya. I am a self taught full stack developer and currently working at Skuad on MERN Stack with NextJS as extension to React and graphql apis.I have done my internship at Vinsol as a Ruby on Rails Developer and developed Prashna. My Interests include Geo-politics and Aviation.",
+    "I am a Bachelors of Technology - Computer Science Graduate from Gurukul Kangri Vishwavidalaya. I am a self taught full stack developer and currently working at Topica Edtech on MERN Stack with NextJS as extension to React and graphql apis and developing cross patform desktop applications usign electron.I have done my internship at Vinsol as a Ruby on Rails Developer and developed Prashna. My Interests include Geo-politics and Aviation.",
   website: "its-mXc.github.io",
   email: "udaynayakgkv@gmail.com",
   address: "Gurgaon, Haryana",
@@ -44,12 +44,29 @@ let resumeData = {
   ],
   work: [
     {
-      CompanyName: "Skuad",
+      CompanyName: "Topica Edtech Group",
+      specialization: "Senior Software Engineer",
+      MonthOfJoining: "April",
+      YearOfJoining: "2022",
+      Achievements:
+        "Collaborated with design and product team for new desktop cross platform Liveclass application, Integrated web sockets for real time interaction and assignments in combination with electron to make Liveclass teaching more engaging, Realtime quizzes and answers for teacher and students, Took additional roles, mentoring freshers and interns",
+    },
+    {
+      CompanyName: "Topica Edtech Group",
       specialization: "Software Engineer",
       MonthOfJoining: "August",
       YearOfJoining: "2020",
-      Achievements:
-        "Working for Edutech Product as Full stack Developer on MERN stack with NextJS as extension to React and GraphQL apis",
+      MonthOfLeaving: "March",
+      YearOfLeaving: "2022",
+      Achievements: [
+        "Working As a full stack developer for a leading edutech platform in Vietnam and Thailand",
+        "Helped and delivered the 3 new Product Sites with emphasis on different features(university, e-commerce, liveclass) migrate from ROR /PHP/Moodle to Next Js and graphql backend on NodeJs, with a focus on delivering modern speeds and modern functions.",
+        "Also laid the initial foundation for the CMS(Content Management System) portal which streamlines our processes and allows marketers/sales/account-managers to configure our products/users.",
+        "Authored component library with Material ui and Typescript with multiple theme support to reduce duplication of code and business logic. Also wrote scripts to leverage better workflow while developing and integrating it with parent project",
+        "Created tools/scripts both internal and external in electron",
+        "Wrote integration test in cypress to test both fronted and backend functionalities and integrate in pipeline to test it on prs, deployment etc.",
+        "Major Tools & Technologies used:- Next Js[ReactJs], Node Js[Backend], GraphQL, MongoDB, Typescript, Material UI, Docker, Zoom(Conference)",
+      ],
     },
     {
       CompanyName: "Vinsol",

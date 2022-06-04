@@ -56,7 +56,13 @@ export default class Resume extends Component {
                             : "Present"}{" "}
                         </em>
                       </p>
-                      <p>{item.Achievements}</p>
+                      {Array.isArray(item.Achievements) ? (
+                        <ul>
+                          {item.Achievements.map((achieve, index) => <li key={index}>{achieve}</li>)}
+                        </ul>
+                      ) : (
+                        <p>{item.Achievements}</p>
+                      )}
                     </div>
                   </div>
                 );
@@ -82,7 +88,7 @@ export default class Resume extends Component {
                       <li>
                         <span
                           className={`bar-expand ${item.skillname.toLowerCase()}`}
-                        ></span>
+                        />
                         <em>{item.skillname}</em>
                       </li>
                     );
