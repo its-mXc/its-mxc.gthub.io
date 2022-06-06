@@ -23,7 +23,7 @@ let resumeData = {
   email: "udaynayakgkv@gmail.com",
   address: "Gurgaon, Haryana",
   resumelink:
-    "https://drive.google.com/uc?export=download&id=1DQYlMzyDo0p-eqfTyZGZWXzFmVXaVF8M",
+    "https://drive.google.com/uc?export=download&id=12twgUF6wDt2BLDwB7KbEsy2X_Z1KWWOo",
   education: [
     {
       UniversityName: "Gurukul Kangri Vishwavidalaya",
